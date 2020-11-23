@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">TMDBMovie</string>
+    <string name="title_movie" translatable="false">Movies</string>
+    <string name="title_tvShow" translatable="false">TV Shows</string>
+    <string name="title_artist" translatable="false">Artists</string>
+    <string name="search_menu">Search</string>
+</resources>
